@@ -1,5 +1,12 @@
+---------------------------------------------------------------------------------------------------------
+|INSTALLATION - | 
 
-|INSTALLATION - |                                                                                                                                                                     
+As sudo run: "sudo git clone https://github.com/rolen3343/Rolenskit.git"
+
+Next cd into rolenskit: "cd Rolenskit"
+
+Finally run the script: "sudo bash ./rolenskit.sh"
+----------------------------------------------------------------------------------------------------------
 
 | OPTION 1.)  |run the rolenskit.sh script and select option 5 to preform a lazy install.       EG - sudo bash install.sh                                                             
 |             |once the installation script is finshed, run the "rolenskit.sh" script and enjoy. ^^                                                                                   
